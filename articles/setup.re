@@ -85,6 +85,12 @@ pip install -U pyxel
 pip3 install -U pyxel
 //}
 
+`error: externally-managed-environment`というエラーが出たら以下をためしてください。
+
+//cmd{
+pip3 install -U pyxel --break-system-packages
+//}
+
 == Pyxelのインストール確認
 
 Pyxelがきちんとインストールされたか確認しましょう。
