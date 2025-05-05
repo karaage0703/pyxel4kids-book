@@ -2,9 +2,20 @@ PREDEF:
   - preface.re
 
 CHAPS:
-  - article.re
+  - python.re
+  - pyxel.re
+  - setup.re
+  - first_program.re
+  - drawing.re
+  - character.re
+  - sound.re
+  - simple_game.re
+  - shooting_game.re
+  - original_game.re
 
 APPENDIX:
+  - errors.re
+  - reference.re
 
 POSTDEF:
   - contributors.re

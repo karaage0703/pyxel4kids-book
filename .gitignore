@@ -1,6 +1,6 @@
 node_modules/
 Gemfile.lock
-*.pdf
+
 .sass-cache/
 
 articles/*.pdf
@@ -9,3 +9,5 @@ articles/*.html
 # articles/*.md
 articles/*.xml
 articles/*.txt
+
+.DS_Store
